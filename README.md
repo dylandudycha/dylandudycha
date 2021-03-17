@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dylandudycha (Dylan Dudycha)
+- 👋 Hi, I’m @dylandudycha 
 - 👀 I’m interested in ... learning languages, creating tangible code and products, and growing a portfolio of work
 - 🌱 I’m currently learning ... javascript and python
-- 💞️ I’m looking to collaborate on ... TBD
-- 📫 How to reach me ... dylandudycha@gmail.com
+- 💞️ I’m looking to collaborate on ... tbd
+- 📫 How to reach me ... message for contact info
 
 <!---
 dylandudycha/dylandudycha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
